@@ -133,36 +133,3 @@ Start the server
   npm run server
 ```
 
-##Primary stakeholders of the product/service built :
-Primary stakeholders of this project is mainly for the institutes like IITB who can use this project to create their personal forum
-
-## Team details along with the contribution.
-
-**[Akash](https://github.com/techtoearth)**
-Contribution:
-- [post answer]
-- [verified users can post ans]
-- [Real Time searching of questions]
-- [sorting of questions]
-- [display of answers]
-
-**[Hrishi](https://github.com/Hrishi0000)**
-Contribution
-- [user authentication -login/signup]
-- [views count]
-- [posting questions]
-- [likes to questions and answers]
-
-**[Manal](https://github.com/manaljain6667)**
-Contribution
-- [Designing of web Pages]
-- [creating and rendering tags]
-- [Real Time searching of questions]
-- [rendering all the details of the question after clicking it]
-
-
-
-
-## Path to Code Documentation (index.html)
-- for client : ./Documentation/Client/index.html
-- for server : ./Documentation/Server/index.html
