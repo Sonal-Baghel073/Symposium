@@ -3,17 +3,17 @@
 
 On a general basis, many students or parents have queries regarding admission, fee structure, techfests,  culturals,
 guidance and many more doubts which they dont have any good enough trusted guide to help in this matter. Symposium provides a common plateform where 
-SIRT or non SIRT people can ask their queries, search for related questions and can find the solutions which are provided by the verified IITB users ,thus reducing the misinformation regarding the query asked. 
+SIRT or non SIRT people can ask their queries, search for related questions and can find the solutions which are provided by the verified SIRT users ,thus reducing the misinformation regarding the query asked. 
 Other users can vote the answers if found useful and the interface will give preferences to answers on the basis of 
 their votes so that it is easier to filter best answer.
 Some really useful question can be upvoted and questions can be displayed on the
-basis of votes, views and number of answers, so that IITB users can answer to most demanding questions. 
+basis of votes, views and number of answers, so that SIRT users can answer to most demanding questions. 
 Then it will be really helpful to lot of help seeking people having great dreams and determination to get admission at 
-IIT Bombay or make use of their knowledge to get on the right path. Also to others to get basic information about general events.
+SIRT or make use of their knowledge to get on the right path. Also to others to get basic information about general events.
 
 ## Sell your Product/Service
 
-Resolve your queries regarding  SIRT Bombay life style and academics and get replied from trusted users
+Resolve your queries regarding  SIRT  life style and academics and get replied from trusted users
 
 
 ## Features
